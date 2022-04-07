@@ -1,10 +1,7 @@
 ﻿using BancoXpress.Domain.Interfaces.Base;
+using Dapper;
 using MySql.Data.MySqlClient;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BancoXpress.Infra.Data.Repositories
 {

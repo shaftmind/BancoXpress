@@ -12,7 +12,7 @@ namespace BancoXpress.Application.Services.Client
         IEnumerable<ClientModel> ObterClient();
         ClientModel ObterPorId(int id);
         ClientModel SaveClient(SaveClientModel save);
-        ClientModel EditClient(SaveClientModel edit);
+        ClientModel EditClient(int id, SaveClientModel edit);
         void DeleteClient(int id);
     }
 }

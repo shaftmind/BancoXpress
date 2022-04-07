@@ -9,6 +9,6 @@ namespace BancoXpress.Application.Services.Transaction
 {
     public interface ITransactionService
     {
-        TransactionModel ExcTransaction(string pixOrigin, string pixDestiny, double valor);
+        TransactionModel ExcTransaction(ExecutionTransactionModel model);
     }
 }

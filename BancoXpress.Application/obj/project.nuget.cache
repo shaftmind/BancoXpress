@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3QW6CEQA1L39JE9C1wsJlhJ2PgfiC9TZ5nxzl73yXTiac6zh/hzPVh9bbwwFTvEVyu55lJ1PrqjB2TP5jPEzhw==",
+  "dgSpecHash": "LRCriAM890fKwnORvVxwj0pBy8Fm01DNW+NFuOqF9hzbHhvVL/dGl/w0Zkv8zu+zcNHkFUw33LRFmRev9YRDhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Application\\BancoXpress.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ADM\\Desktop\\BancoXpress\\BancoXpress.Application\\BancoXpress.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADM\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

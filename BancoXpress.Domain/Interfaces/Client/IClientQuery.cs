@@ -6,6 +6,7 @@ namespace BancoXpress.Domain.Interfaces.Client
     {
         ScriptSql GetAll();
         ScriptSql GetById(int id);
+        ScriptSql GetByPixKey(string key);
 
 
     }

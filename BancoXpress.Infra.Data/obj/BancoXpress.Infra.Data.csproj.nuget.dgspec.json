@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Infra.Data\\BancoXpress.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Domain\\BancoXpress.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Domain\\BancoXpress.Domain.csproj",
+        "projectName": "BancoXpress.Domain",
+        "projectPath": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Domain\\BancoXpress.Domain.csproj",
+        "packagesPath": "C:\\Users\\adaias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adaias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://benuget.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Infra.Data\\BancoXpress.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Infra.Data\\BancoXpress.Infra.Data.csproj",
+        "projectName": "BancoXpress.Infra.Data",
+        "projectPath": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Infra.Data\\BancoXpress.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\adaias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adaias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://benuget.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Domain\\BancoXpress.Domain.csproj": {
+                "projectPath": "C:\\Users\\adaias\\source\\repos\\BancoXpress\\BancoXpress.Domain\\BancoXpress.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

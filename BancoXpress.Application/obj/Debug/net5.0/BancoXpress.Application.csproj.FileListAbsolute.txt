@@ -1,0 +1,12 @@
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\bin\Debug\net5.0\BancoXpress.Application.deps.json
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\bin\Debug\net5.0\BancoXpress.Application.dll
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\bin\Debug\net5.0\ref\BancoXpress.Application.dll
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\bin\Debug\net5.0\BancoXpress.Application.pdb
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\BancoXpress.Application.csprojAssemblyReference.cache
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\BancoXpress.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\BancoXpress.Application.AssemblyInfoInputs.cache
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\BancoXpress.Application.AssemblyInfo.cs
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\BancoXpress.Application.csproj.CoreCompileInputs.cache
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\BancoXpress.Application.dll
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\ref\BancoXpress.Application.dll
+C:\Users\adaias\source\repos\BancoXpress\BancoXpress.Application\obj\Debug\net5.0\BancoXpress.Application.pdb
